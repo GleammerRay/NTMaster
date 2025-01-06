@@ -28,5 +28,6 @@ Guides, map callouts and more!
 
 - `/help` - List all available commands.
 - `/callouts`, `/map` - Show map callouts.
+- `/linux` - Linux Proton fix.
 
 #### Made with 💜 by Gleammer.
