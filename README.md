@@ -2,7 +2,7 @@
 
 Guides, map callouts and more!
 
-![](https://external-preview.redd.it/nQxUkspA0dZuq_ZXN865uE8rtjDTZ_jL2gE0EpOKekM.jpg?auto=webp&s=ae16ab71b3015d0bfa2088a679437fe683024a39)
+![](https://github.com/user-attachments/assets/f64edf4d-fb56-447d-86a0-b150dab31cc3)
 
 ## Contents
 
