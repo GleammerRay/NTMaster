@@ -70,7 +70,19 @@
   },
   "rise": {
     "callouts": [
-      "https://gleammerray.github.io/NTMaster/assets/callouts/nt_rise_ctg.gif"
+      "https://gleammerray.github.io/NTMaster/assets/callouts/nt_rise_ctg.gif",
+      {
+        "name": "Bottom",
+        "url": "https://gleammerray.github.io/NTMaster/assets/callouts/nt_rise_ctg%20bottom.gif"
+      },
+      {
+        "name": "Mid",
+        "url": "https://gleammerray.github.io/NTMaster/assets/callouts/nt_rise_ctg%20mid.gif"
+      },
+      {
+        "name": "Roof",
+        "url": "https://gleammerray.github.io/NTMaster/assets/callouts/nt_rise_ctg%20roof.gif"
+      }
     ]
   },
   "marketu": {
