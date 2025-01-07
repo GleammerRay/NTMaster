@@ -9,7 +9,6 @@ Guides, map callouts and more!
 1. [Setting up the bot in Discord](#setting-up-the-bot-in-discord)
 2. [Discord slash commands](#discord-slash-commands)
    - [User commands](#user-commands)
-   - [Admin commands](#admin-commands)
 
 ## Setting up the bot in Discord
 
@@ -28,6 +27,7 @@ Guides, map callouts and more!
 
 - `/help` - List all available commands.
 - `/callouts`, `/map` - Show map callouts.
+- `/anp`, `/discord` - Active NEOTOKYO° Players invite link.
 - `/linux` - Linux Proton fix.
 
 #### Made with 💜 by Gleammer.
