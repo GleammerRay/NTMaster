@@ -26,6 +26,7 @@ Guides, map callouts and more!
 ### User commands
 
 - `/help` - List all available commands.
+- `/install` - Install User App.
 - `/callouts`, `/map` - Show map callouts.
 - `/anp`, `/discord` - Active NEOTOKYO° Players invite link.
 - `/linux` - Linux Proton fix.
