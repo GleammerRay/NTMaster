@@ -38,6 +38,18 @@
   "ikasen": {
     "callouts": "https://gleammerray.github.io/NTMaster/assets/callouts/callout%20-%20ikasen.png"
   },
+  "izakaya": {
+    "callouts": [
+      {
+        "name": "Upper",
+        "url": "https://gleammerray.github.io/NTMaster/assets/callouts/callout%20-%20izakaya%20wip%20upper.png"
+      },
+      {
+        "name": "Mid / Basement",
+        "url": "https://gleammerray.github.io/NTMaster/assets/callouts/callout%20-%20izakaya%20wip%20mid%20%E2%81%84%20basement.png"
+      }
+    ]
+  },
   "marketu": {
     "callouts": [
       "https://gleammerray.github.io/NTMaster/assets/callouts/callout%20-%20marketu.gif",
