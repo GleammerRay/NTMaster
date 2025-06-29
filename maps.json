@@ -90,6 +90,9 @@
       }
     ]
   },
+  "rogue": {
+    "callouts": "https://gleammerray.github.io/NTMaster/assets/callouts/callout%20-%20rogue_b3.png"  
+  },
   "saitama": {
     "callouts": "https://gleammerray.github.io/NTMaster/assets/callouts/callout%20-%20saitama.png"
   },
