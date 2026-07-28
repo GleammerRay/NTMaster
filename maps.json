@@ -30,7 +30,7 @@
     "callouts": "https://gleammerray.github.io/NTMaster/assets/callouts/callout%20-%20envoy.png"
   },
   "ghost": {
-    "callouts": "https://gleammerray.github.io/NTMaster/assets/callouts/callout%20-%20ghost.png"
+    "callouts": "https://gleammerray.github.io/NTMaster/assets/callouts/ghost.png"
   },
   "grid": {
     "callouts": "https://gleammerray.github.io/NTMaster/assets/callouts/callout%20-%20gridb1comp.png"
@@ -97,7 +97,7 @@
     "callouts": "https://gleammerray.github.io/NTMaster/assets/callouts/callout%20-%20rogue_b3.png"  
   },
   "saitama": {
-    "callouts": "https://gleammerray.github.io/NTMaster/assets/callouts/callout%20-%20saitama.png"
+    "callouts": "https://gleammerray.github.io/NTMaster/assets/callouts/saitama.png"
   },
   "scrapmetal": {
     "callouts": "https://gleammerray.github.io/NTMaster/assets/callouts/callout%20-%20scrapmetal_ctg_a7f.png"
@@ -125,5 +125,8 @@
   },
   "yokoalley": {
     "callouts": "https://gleammerray.github.io/NTMaster/assets/callouts/callout%20-%20yokoalley_a6.png"
+  },
+  "shinkansen": {
+    "callouts": "https://gleammerray.github.io/NTMaster/assets/callouts/shinkansen.png"
   }
 }
